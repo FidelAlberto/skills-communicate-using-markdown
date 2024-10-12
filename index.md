@@ -5,3 +5,7 @@
 ```python
 print("fidel  ramos")
 ```
+
+- [ ] Hacer el checkbox
+- [ ] Terminar el proceso automático
+- [ ] Hacer el modelo y el test
